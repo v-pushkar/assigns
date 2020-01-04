@@ -1,0 +1,85 @@
+{
+    "contract": {
+        "id": 294,
+        "assigned": [],
+        "available": [{
+            "id": 9,
+            "assigned": 1,
+            "available": 1,
+            "created_at": "2019-12-13T22:31:48.323Z",
+            "damaged": 1,
+            "description": "test",
+            "main_image_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d0c908919b3599bfc79ad453a09ebbe9e936a0b7/468428523_w640_h640_stroitelnye-materialy-v.jpg",
+            "name": "Test equiment 2 231312 . 321 21 213231 ",
+            "total_owned": 1,
+            "updated_at": "2019-12-20T10:18:25.765Z"
+        }, {
+            "id": 7,
+            "assigned": 1,
+            "available": 1,
+            "created_at": "2019-12-12T15:40:35.496Z",
+            "damaged": 1,
+            "description": "test2",
+            "main_image_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--394f614f1cc81eb69b0f075c506ab6eeff627ba5/1735a4526a21af3b1c7d26a0e46d205a@2x.png",
+            "name": "test2",
+            "total_owned": 1,
+            "updated_at": "2019-12-12T16:58:56.023Z"
+        }, {
+            "id": 6,
+            "assigned": 3,
+            "available": 3,
+            "created_at": "2019-12-12T12:48:23.285Z",
+            "damaged": 4,
+            "description": "test1",
+            "main_image_path": null,
+            "name": "test1",
+            "total_owned": 12,
+            "updated_at": "2019-12-12T20:43:14.175Z"
+        }, {
+            "id": 5,
+            "assigned": 1,
+            "available": 4,
+            "created_at": "2019-12-09T10:50:26.018Z",
+            "damaged": 1,
+            "description": "test3",
+            "main_image_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYjA9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d8efaa71d2fff269d71d579c82d888f4f23d69/5f9f46a53eec2e2c934e00c026300bad.png",
+            "name": "test3",
+            "total_owned": 2,
+            "updated_at": "2019-12-12T16:19:51.466Z"
+        }, {
+            "id": 3,
+            "assigned": 12,
+            "available": 12,
+            "created_at": "2019-12-08T21:11:42.147Z",
+            "damaged": 1,
+            "description": "12122",
+            "main_image_path": null,
+            "name": "1221",
+            "total_owned": 12,
+            "updated_at": "2019-12-08T21:11:42.147Z"
+        }, {
+            "id": 2,
+            "assigned": 2,
+            "available": 3,
+            "created_at": "2019-12-04T14:04:10.261Z",
+            "damaged": 4,
+            "description": "bootest_description",
+            "main_image_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1U9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2dd2ea86907c4b89c21cba90b198b202a59860cf/1735a4526a21af3b1c7d26a0e46d205a@2x.png",
+            "name": "bootest_name",
+            "total_owned": 1,
+            "updated_at": "2019-12-16T14:00:31.727Z"
+        }, {
+            "id": 1,
+            "assigned": 2320,
+            "available": 23224,
+            "created_at": "2019-10-29T13:25:56.749Z",
+            "damaged": 3,
+            "description": "test . test",
+            "main_image_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYTg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--17a9c51145097a6623f88dc784444256a4dde3bd/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-12-11%20%D0%BE%2010.44.11.png",
+            "name": "test",
+            "total_owned": 1212,
+            "updated_at": "2019-12-18T13:34:47.730Z"
+        }],
+        "contact_name": "Contractor 2020"
+    }
+}

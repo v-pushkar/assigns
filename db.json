@@ -3,6 +3,7 @@
         "id": 227,
         "assigned": [
             {
+                "added": true,
                 "id": 123,
                 "name": "Commercial Generator SGX3500",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -17,6 +18,7 @@
                 "total_owned": 2
     },
             {
+                "added": true,
                 "id": 124,
                 "name": "Pomp DP200",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -35,6 +37,7 @@
 
 
             {
+                "added": false,
                 "id": 133,
                 "name": "Generator F520",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -49,6 +52,7 @@
                 "total_owned": 3
     },
             {
+                "added": false,
                 "id": 154,
                 "name": "Generator",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -63,6 +67,7 @@
                 "total_owned": 1
     },
             {
+                "added": false,
                 "id": 156,
                 "name": "Pomp",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -77,6 +82,7 @@
                 "total_owned": 1
     },
             {
+                "added": false,
                 "id": 129,
                 "name": "Commercial Generator SGX3500",
                 "created_at": "2019-10-29T13:25:56.749Z",
@@ -91,6 +97,7 @@
                 "total_owned": 2
     },
             {
+                "added": false,
                 "id": 154,
                 "name": "Generator",
                 "created_at": "2019-10-29T13:25:56.749Z",

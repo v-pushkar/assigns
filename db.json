@@ -33,20 +33,7 @@
         ],
         "available": [
 
-            {
-                "id": 125,
-                "name": "Commercial Generator SGX3500",
-                "created_at": "2019-10-29T13:25:56.749Z",
-                "model": "SGX3500",
-                "category": "Construction",
-                "main_image_path": "http://astra.site4u.top/assets/img/equipments-1.png",
-                "assigned": 60,
-                "available": 5,
-                "updated_at": "2019-12-16T14:00:31.727Z",
-                "damaged": 4,
-                "description": "bootest_description",
-                "total_owned": 2
-    },
+
             {
                 "id": 133,
                 "name": "Generator F520",
